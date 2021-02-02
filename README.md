@@ -1,1 +1,4 @@
-# COMP-1502-2020-Assignment-2
+# Paino Player code
+
+This code is for my paino player I created. 
+ExampleMain.java is the runner class where it will play the notes that are inputed
